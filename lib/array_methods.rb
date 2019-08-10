@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
  length = array.length
  array.length.times do [value_to_find]
- puts array []
+ puts array [value_to_find]
  end
  return array.index(value_to_find)
 end
