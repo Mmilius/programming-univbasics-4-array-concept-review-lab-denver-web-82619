@@ -10,7 +10,7 @@ def find_max_value(array)
   length = array.length
   array.length.times do []
 end
-return array.
+return array[]
 end
 
 def find_min_value(array)
